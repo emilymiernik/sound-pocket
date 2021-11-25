@@ -1,6 +1,15 @@
 # SoundPocket Project
 
-# React & Web API
+# Build using React & Web API
 
-More information on Web Audio API:
-https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API
+More info on Web Audio API: https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API
+
+
+# Project Overview
+
+ # Coming soon: 
+ 
+ # Technical Wins
+ 
+ # Technical Challenges
+
