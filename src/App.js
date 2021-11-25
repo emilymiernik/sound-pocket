@@ -31,7 +31,7 @@ function App() {
     setOsc1Settings({ ...osc1Settings, type: id })
     osc1.type = id;
   };
-
+change
   return (
     <div className="App">
       <h1>sliders</h1>
