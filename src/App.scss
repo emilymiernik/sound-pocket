@@ -1,0 +1,22 @@
+body {
+    background: rgb(17,80,108);
+    color: white;
+    font-family: sans-serif;
+}
+
+.control {
+    background: rgb(90, 90, 133);
+    margin:1.5rem;
+    display: flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    border-radius:2.5rem;
+        h3 {
+        width:100%;
+        text-align:center;
+        }
+        input {
+        width:25rem;
+        }
+}
