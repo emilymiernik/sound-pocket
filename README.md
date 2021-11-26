@@ -1,4 +1,4 @@
-🔊 ###SoundPocket App
+###SoundPocket App 🔊
 
 ### Built using React (with Web Audio API)
 
