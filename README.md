@@ -1,15 +1,13 @@
-# SoundPocket Project
+#🔊 SoundPocket App
 
-## Built using React & Web API
+### Built using React (with Web Audio API)
 
 More info on Web Audio API: https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API
 
 
 #### Project Overview
 
- #### Coming soon: 
+#### Working on: 
  
- #### Technical Wins
- 
- #### Technical Challenges
+
 
