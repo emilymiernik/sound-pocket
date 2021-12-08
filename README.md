@@ -1,6 +1,6 @@
-SoundPocket App 🔊
+PocketSound Application 🔊
 
-### Built using React (with Web Audio API)
+## Built using React (with Web Audio API)
 
 Built during my time at Juno College https://junocollege.com/
 Grade: 86.90%
